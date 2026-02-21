@@ -1,4 +1,4 @@
-public class Main {
+public class BestSum {
     public static void main(String[] args) {
         int[] arr = {-8,-3,1,2,4,7};
 
